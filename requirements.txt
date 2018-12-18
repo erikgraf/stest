@@ -3,7 +3,5 @@ pandas
 scipy
 statsmodels
 matplotlib
-math 
 plotly
 ipywidgets
-warnings
